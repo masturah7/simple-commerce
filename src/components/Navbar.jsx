@@ -1,5 +1,5 @@
 import { Navbar, TextInput } from "flowbite-react";
-import { BiChevronDown } from "react-icons/bi";
+import { BiChevronDown } from 'react-icons/bi';
 import { IoSearchOutline } from "react-icons/io5";
 import mybag from '../assets/images/shopping-bag.png';
 import use from '../assets/images/user.png';
