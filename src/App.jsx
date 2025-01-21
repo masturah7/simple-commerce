@@ -10,7 +10,7 @@ import AppProducts from './components/Products'
 export default function App (){
     return(
         <div>
-<AppNavbar />
+
 <AppProducts />
 
 </div>
