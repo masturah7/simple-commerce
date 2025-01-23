@@ -1,13 +1,13 @@
 import { useState } from "react";
 import { MdKeyboardArrowRight } from "react-icons/md";
-import hood from "../assets/images/hoodie.png";
+import hood from "../assets/images/Hoodie.png";
 import small1 from "../assets/images/smallhoodie1.png";
 import small2 from "../assets/images/smallhoodie2.png";
 import small3 from "../assets/images/smallhoodie3.png";
 import { BiChevronDown } from "react-icons/bi";
 
 import { FaCircleUser } from "react-icons/fa6";
-import AppNavbar from "./Navbar";
+import AppNavbar from "../components/Navbar";
 import { toast, ToastContainer } from "react-toastify";
 
 export default function AppProducts() {
